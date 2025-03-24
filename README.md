@@ -1,4 +1,4 @@
-# NYC_Taxi_Omkar
+# EDA_Optimizing_NYC_Taxi_Omkar_Tralsawala
 
 Contains Starter Notebook and required PDF to submit the EDA assignment
 
